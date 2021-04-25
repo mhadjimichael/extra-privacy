@@ -1,5 +1,7 @@
-; This list contains some of the most common public DNS servers
+; This list contains some of the most 
+; common public DNS servers' IPv4 + IPv6 addresses
 ; Updated 4/24/2021
+;
 ; Google
 8.8.8.8
 8.8.4.4

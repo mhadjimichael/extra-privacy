@@ -1,4 +1,5 @@
 ; This list contains some of the most common public DNS servers
+; Updated 4/24/2021
 ; Google
 8.8.8.8
 8.8.4.4
